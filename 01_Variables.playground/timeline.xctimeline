@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Timeline
+   version = "3.0">
+   <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/chebs/Developer/Projects_Swift/100_days/01_Variables.playground#CharacterRangeLen=3&amp;CharacterRangeLoc=60&amp;EndingColumnNumber=8&amp;EndingLineNumber=3&amp;StartingColumnNumber=5&amp;StartingLineNumber=3&amp;Timestamp=630951470.6879129"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/chebs/Developer/Projects_Swift/100_days/01_Variables.playground#CharacterRangeLen=9&amp;CharacterRangeLoc=134&amp;EndingColumnNumber=0&amp;EndingLineNumber=6&amp;StartingColumnNumber=7&amp;StartingLineNumber=5&amp;Timestamp=630951470.68808"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/chebs/Developer/Projects_Swift/100_days/01_Variables.playground#CharacterRangeLen=10&amp;CharacterRangeLoc=264&amp;EndingColumnNumber=15&amp;EndingLineNumber=10&amp;StartingColumnNumber=5&amp;StartingLineNumber=10&amp;Timestamp=630951470.688189"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/chebs/Developer/Projects_Swift/100_days/01_Variables.playground#CharacterRangeLen=4&amp;CharacterRangeLoc=338&amp;EndingColumnNumber=9&amp;EndingLineNumber=13&amp;StartingColumnNumber=5&amp;StartingLineNumber=13&amp;Timestamp=630951470.6883039"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/chebs/Developer/Projects_Swift/100_days/01_Variables.playground#CharacterRangeLen=4&amp;CharacterRangeLoc=466&amp;EndingColumnNumber=9&amp;EndingLineNumber=20&amp;StartingColumnNumber=5&amp;StartingLineNumber=20&amp;Timestamp=630951470.688399"
+         lockedSize = "{438, 50}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/chebs/Developer/Projects_Swift/100_days/01_Variables.playground#CharacterRangeLen=4&amp;CharacterRangeLoc=653&amp;EndingColumnNumber=9&amp;EndingLineNumber=34&amp;StartingColumnNumber=5&amp;StartingLineNumber=34&amp;Timestamp=630951470.6885"
+         lockedSize = "{290, 50}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+   </TimelineItems>
+</Timeline>
